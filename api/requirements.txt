@@ -1,0 +1,6 @@
+flask 
+flask-restful 
+flask-socketio 
+psycopg2-binary 
+flask-sqlalchemy 
+geoalchemy2
